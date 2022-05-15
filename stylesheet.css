@@ -1,0 +1,20 @@
+
+body {
+	background-color: aquamarine !important;
+	
+}
+
+h1 {
+    text-align: center !important;
+    color: rgb(18, 4, 71) !important;
+}
+h2 {
+    text-align: center !important;
+    color: rgb(18, 4, 71) !important;
+}
+
+.container { 
+  font-family: cursive, sans-serif;
+  font: rgb(18, 4, 71)
+  
+}
